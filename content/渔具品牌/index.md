@@ -14,13 +14,13 @@ tags:
 
 ## 知识范围
 
-- 竿类品牌：Shimano、Daiwa 等的产品线定位与型号解读
-- 轮类品牌：纺车轮、水滴轮各系列的特点
-- 线类品牌：YGK、Sunline、Seaguar 等的 PE 线、碳线产品
-- 型号命名规则：长度、硬度、饵重、线号等代号怎么读
+- 竿轮品牌：Shimano、Daiwa、ABU Garcia 的产品线定位与型号解读
+- 拟饵品牌：Megabass、Rapala 的设计理念与代表产品
+- 线材品牌：YGK、Sunline、Seaguar 的 PE 线、碳线产品
+- 型号命名规则：尺寸、速比、线号等代号怎么读
+- 核心技术：Hagane、Magsealed、LBO、双层结构等
 - 同品牌不同系列的定位差异
 - 不同品牌同类产品的横向对比
-- 实际使用体验与可靠性反馈
 
 ## 本分类文章
 
@@ -28,6 +28,12 @@ tags:
 
 - [[Shimano]] — 竿、轮、线全线产品
 - [[Daiwa]] — 纺车轮与水滴轮产品线
+- [[ABU Garcia]] — Ambassadeur 圆轮与 Revo 水滴轮
+
+### 拟饵品牌
+
+- [[Megabass]] — 高端拟饵、路亚竿与 LBO 重心系统
+- [[Rapala]] — 鱼形米诺的开创者与经典产品
 
 ### 线材品牌
 
