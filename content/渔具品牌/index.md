@@ -1,8 +1,9 @@
 ---
 title: 渔具品牌
-description: 主流路亚渔具品牌的产品线、型号命名、技术特点与选购参考。
+description: Shimano、Daiwa、ABU Garcia、Megabass、Rapala 及 YGK、Sunline、Seaguar 等主流渔具品牌的产品线与型号解读。
 tags:
   - 分类
+  - 品牌
 ---
 
 # 渔具品牌
@@ -41,7 +42,21 @@ tags:
 - [[Sunline]] — PE 线与碳线
 - [[Seaguar]] — 碳线与前导线
 
+## 品牌速查
+
+| 品牌 | 强项 | 代表系列 |
+| --- | --- | --- |
+| [[Shimano]] | 齿轮强度、长期顺滑 | Stella、Curado |
+| [[Daiwa]] | 轻量化、磁油防水 | Exist、Tatula |
+| [[ABU Garcia]] | 圆轮传统、离心刹车 | Ambassadeur、Revo |
+| [[Megabass]] | 拟饵设计、重心系统 | Vision Oneten、Destroyer |
+| [[Rapala]] | 鱼形米诺 | Floating Rapala、Shad Rap |
+| [[YGK]] | PE 编织线 | G-Soul X8 |
+| [[Sunline]] | PE 线与碳线 | Siglon、FC Sniper |
+| [[Seaguar]] | 碳氟前导线 | Blue Label、Tatsu |
+
 ## 相关分类
 
 - [[路亚装备/]] — 装备参数与搭配思路
+- [[路亚拟饵/]] — 拟饵类型与适用
 - [[路亚鱼种/]] — 按目标鱼选择装备
